@@ -1,0 +1,5 @@
+export const SET_POST_LOADING="SET_POST_LOADING"
+export const GET_POST_SUCC="GET_POST_SUCC"
+export const GET_POST_ERR="GET_POST_ERR";
+export const ADD_POST_SUCC="ADD_POST_SUCC";
+export const ADD_POST_ERR="ADD_POST_ERR";
