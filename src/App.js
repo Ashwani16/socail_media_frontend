@@ -6,7 +6,7 @@ import { Navbar } from './components/Navbar';
 import { AllRoutes } from './AllRouts';
 
 function App() {
-//   const dispatch=useDispatch();
+// const dispatch=umnbhjseDispatch();
 
 // dispatch(login("user1",1234))
   return (
