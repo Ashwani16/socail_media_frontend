@@ -19,7 +19,7 @@ export const RegisterPage=()=>{
         <h1>Registration Page</h1>
         <input placeholder="enter name" name="name" value={name} onChange={changeHandler}/><br/>
         <input name="email" placeholder="enter your emai" value={email} onChange={changeHandler}/><br/>
-        <select name="gender" value={gender} onChange={changeHandler}><br/>
+        <select name="gender" value={gender} onChange={changeHandler}>
             <option value="Male">Male</option>
             <option value="Female">Female</option>
         </select><br/>
